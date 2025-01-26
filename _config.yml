@@ -1,3 +1,4 @@
 title: Nick Longmore
 description: A brief description of your site
-theme: jekyll-theme-architect
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site
