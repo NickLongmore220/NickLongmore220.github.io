@@ -2,3 +2,7 @@ title: Nick Longmore
 description: A brief description of your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://localhost:3000" # the base hostname & protocol for your site
+username: Nick Longmore
+user_description: 
+user_title: 
+email: 
